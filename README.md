@@ -1,5 +1,6 @@
 # Digital-Literacy
 This project is part of the Digital Literacy course (CSE0001) at VIT Bhopal University. As part of this assignment, I worked as a Student Digital Ambassador and completed a series of tasks designed to develop essential digital skills.  The project focuses on building awareness about digital tools, creating a professional online presence.
+
 📚 Module Summaries
 Module 1 – Digital Literacy Awareness
 This module introduced the concept of digital literacy and its importance in academic and professional life. I created a visual infographic using Canva that highlights key ideas such as safe internet practices, useful digital tools, and maintaining a professional online identity. 📁 Folder: task-1-presentation/
